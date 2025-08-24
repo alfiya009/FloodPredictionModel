@@ -1,0 +1,103 @@
+Ward Code,Areas,Latitude,Longitude,Nearest Station,Elevation,Land Use Classes,Population,Road Density_m,Distance_to_water_m,Soil Type,Built_up%,True_nearest_distance_m
+Ward A,Colaba Causeway,18.9151,72.8141,Arabian Sea ,6.0,"commercial, mixed_use",185000,4.3,9,Urban,90.0,3921.69
+Ward A,Ballard Estate,18.9496,72.8414,Arabian Sea ,17.0,"commercial, institutional",185000,25.44,14,Sandy,90.0,1342.48
+Ward A,Regal Circle,18.9225,72.8312,Arabian Sea ,16.0,"commercial, mixed_use",185000,17.36,9,Urban,90.0,1872.23
+A,Fort,19.05088346,72.76146598,Arabian Sea,6.856552633,park,185000,3.410650534,4735,Sand,52.29782755,5938.0
+Ward A,Metro Cinema Subway,18.9445,72.8279,Arabian Sea ,12.0,"commercial, transport",185000,31.67,10,Urban,90.0,2022.25
+Ward B,Dongri Circle,18.9594,72.8376,Arabian Sea ,19.0,"residential, commercial, religious",195000,48.94,7,Urban,90.0,2022.4
+Ward B,P D'Mello Road (near Masjid Bunder),18.9556,72.8412,Arabian Sea ,6.0,"transport, commercial, mixed_use",195000,7.61,17,Urban,90.0,1689.21
+Ward B,Carnac Bunder underpass,18.9519,72.8356,Arabian Sea ,16.0,"transport, residential, commercial",195000,38.77,7,Sandy,90.0,1618.19
+Ward C,Marine Lines Subway,18.9458,72.8238,Arabian Sea ,16.0,"transport, mixed_use",190000,30.29,5,Urban,90.0,2265.59
+Ward C,CST Subway (near St. Xavier's),18.9472,72.8272,Arabian Sea ,11.0,"transport, education, mixed_use",190000,23.89,11,Urban,90.0,1330.99
+C,Bhuleshwar,19.07657952,72.84501224,Arabian Sea,10.26407906,commercial,190000,4.776598896,4498,Sand,66.57048423,2794.0
+Ward C,Princess Street corner (Marine Lines Junction),18.9494,72.8278,Arabian Sea ,16.0,"commercial, residential, mixed_use",190000,33.49,16,Urban,90.0,2274.63
+Ward E,Nair Hospital Junction,18.9713,72.8255,Wadala Nalla,8.0,"hospital/institutional, mixed_use",420000,31.93,13,Urban,90.0,1179.12
+E,Byculla,19.2940447,72.72749992,Arabian Sea,10.48046154,commercial,420000,3.644874745,3246,Clay,62.42979292,5051.0
+Ward E,Saat Rasta Junction,18.9754,72.8226,Wadala Nalla,5.0,"commercial, recreation_ground, mixed_use",420000,30.38,6,Urban,90.0,1072.41
+E,Madanpura,18.94561466,72.94225348,Mahalaxmi Nallah/Arabian Sea,6.631398762,commercial,420000,3.579240831,4430,Clay,54.4523037,2609.0
+Ward E,Dockyard Road (Mazgaon),18.9637,72.8443,Wadala Nalla,8.0,"transport, industrial, commercial",420000,24.65,9,Urban,90.0,2486.33
+Ward F/N,King's Circle,19.0272,72.8559,Wadala Nalla,10.0,"recreation_ground, residential, mixed_use",530000,22.41,7,Urban,90.0,425.8
+Ward F/N,Sion Circle,19.0373,72.8555,Wadala Nalla,8.0,"transport, commercial, mixed_use",530000,24.29,18,Urban,90.0,513.27
+Ward F/N,Gandhi Market Junction,19.0337,72.8512,Wadala Nalla,9.0,"commercial, residential",530000,14.81,8,Urban,90.0,1092.59
+F/N,Matunga,19.11092885,72.98558095,Mahim Creek,8.049331941,residential,530000,4.711813057,1277,Clay,56.44494497,3717.0
+Ward F/N,Five Gardens Underpass,19.0163,72.8494,Wadala Nalla,14.0,"transport, residential, mixed_use",530000,28.54,19,Sandy,90.0,409.86
+F/N,Wadala,18.87827989,72.84007918,Mithi River,12.45338912,commercial,530000,2.913895467,2646,Sand,69.60650731,3503.0
+Ward F/N,Hindmata Junction,19.0199,72.8439,Wadala Nalla,8.0,"transport, commercial, mixed_use",470000,22.5,5,Urban,90.0,482.19
+Ward F/S,Naigaon Cross Road,19.0081,72.8367,Wadala Nalla,10.0,"residential, institutional, mixed_use",470000,25.54,9,Urban,90.0,469.72
+F/S,Sewri,19.27535715,72.91959818,Thane Creek,5.999749158,park,470000,2.428600454,2215,Urban,68.52444529,5385.0
+Ward F/S,Jerbai Wadia Road,19.0049,72.8397,Wadala Nalla,9.0,"hospital/institutional, residential, mixed_use",520000,24.33,6,Urban,90.0,366.85
+Ward G/N,Dadar TT,19.0195,72.8436,Wadala Nalla,7.0,"transport, commercial, mixed_use",520000,24.1,9,Sandy,90.0,182.83
+G/N,Mahim,19.06413713,72.88843952,Mahim Creek,7.537038075,park,430000,2.435036502,3988,Sand,50.80712462,2311.0
+Ward G/N,LJ Road Junction,19.0372,72.8401,Mahim Creek,1.0,"commercial, industrial, residential",520000,17.47,7,Urban,90.0,1066.52
+G/N,Dharavi,19.14503768,72.81711293,Mithi River,10.27148382,park,520000,4.663618796,4138,Urban,75.82432588,2600.0
+Ward G/N,Near Kirti College,19.0294,72.8371,Mahim Creek,10.0,"education, residential, mixed_use",520000,25.63,8,Sandy,90.0,941.34
+Ward G/N,Lady Jamshedji Road,19.0299,72.8393,Mahim Creek,3.0,"transport, residential",430000,24.05,16,Urban,70.0,893.09
+G/S,Worli,19.12385454,72.85079194,Arabian Sea,11.08684221,park,430000,3.935029446,3350,Urban,73.81152277,5603.0
+Ward G/S,Elphinstone Bridge (Lower Parel),19.0172,72.8337,Wadala Nalla,5.0,"transport, mixed_use",430000,6.6,18,Sandy,90.0,615.6
+G/S,Prabhadevi,18.81233498,72.82206953,Arabian Sea,11.84725164,commercial,430000,2.716993041,2695,Sand,60.15520638,3238.0
+Ward G/S,Tulsi Pipe Road near station,19.0098,72.8319,Wadala Nalla,15.0,"transport, industrial, mixed_use",430000,11.25,9,Urban,90.0,732.0
+Ward G/S,Worli Naka (coastal backflow),19.0056,72.8199,Wadala Nalla,10.0,"commercial, residential, mixed_use",600000,19.87,9,Urban,90.0,770.75
+Ward H/E,Kalina CST Road,19.0802,72.8655,Kurla Nalla,9.0,"transport, residential, mixed_use",600000,17.08,8,Urban,90.0,476.86
+Ward H/E,Air India Colony,19.084,72.87,Kurla Nalla,9.0,"residential, institutional",600000,15.18,10,Sandy,70.0,400.56
+Ward H/E,Kalina University Junction,19.0722,72.8673,Kurla Nalla,8.0,"education, residential, mixed_use",600000,24.67,27,Urban,90.0,549.45
+Ward H/E,Vakola Nala stretch,19.0754,72.8517,Mithi River,7.0,"industrial, transport, mixed_use",410000,20.43,6,Sandy,90.0,165.04
+Ward H/W,Linking Road near National College,19.0543,72.8301,Mahim Creek,8.0,"commercial, retail, mixed_use",410000,23.44,7,Urban,90.0,569.19
+H/W,Khar West,19.1646607,72.77101183,Arabian Sea,13.21986328,residential,410000,4.127364824,1567,Sand,55.83881873,5691.0
+Ward H/W,SV Road (Khar Subway),19.0717,72.8391,Mithi River,5.0,"transport, commercial, mixed_use",410000,21.37,9,Urban,90.0,793.94
+H/W,Santacruz West,19.18868656,72.8743115,Mithi River,10.61446384,park,880000,2.01427712,1305,Urban,63.48310326,5375.0
+Ward H/W,Waterfield Road,19.0605,72.8335,Mahim Creek,13.0,"residential, commercial, mixed_use",880000,22.6,1,Urban,90.0,396.25
+Ward K/E,Saki Naka Junction,19.1031,72.8882,Kurla Nalla,12.0,"commercial, transport, mixed_use",880000,18.81,3,Urban,90.0,56.67
+Ward K/E,Marol Naka,19.1049,72.8837,Powai Lake,11.0,"transport, mixed_use",880000,12.49,8,Urban,90.0,439.32
+Ward K/E,JB Nagar (Metro area),19.1089,72.8664,Mithi River,18.0,"transport, mixed_use",880000,21.08,8,Urban,90.0,398.75
+K/E,Andheri East,18.87387316,72.82843701,Mithi River,7.156397627,commercial,880000,2.432311889,4898,Urban,69.58978195,3528.0
+Ward K/E,Airport Gate 8 Road,19.0995,72.8662,Mithi River,14.0,"industrial, transport, mixed_use",750000,17.61,13,Urban,90.0,414.18
+Ward K/W,SV Road (Andheri Subway),19.1182,72.8463,Oshiwara River,14.0,"transport, commercial, mixed_use",750000,26.92,14,Urban,90.0,774.49
+Ward K/W,Oshiwara Nullah stretch,19.1482,72.8273,Oshiwara River,10.0,"residential, industrial, mixed_use",750000,22.06,4,Clayey,90.0,1035.43
+K/W,Vile Parle West,18.88830685,72.86461588,Arabian Sea,9.106762483,park,750000,3.829172143,2360,Sand,76.86714437,4226.0
+Ward K/W,DN Nagar Metro area,19.136,72.8314,Oshiwara River,9.0,"transport, mixed_use",900000,24.04,2,Urban,90.0,930.15
+Ward P/N,Kurar Village,19.1903,72.8605,Tulsi Lake,27.0,"transport, commercial, mixed_use",900000,3.32,16,Clayey,90.0,271.29
+Ward P/N,Pathanwadi,19.1834,72.8701,Goregaon Nalla,67.0,"commercial, residential, mixed_use",900000,26.8,11,Sandy,90.0,337.58
+P/N,Marve,18.84279647,72.92839484,Malad/Marve Creek,5.679746143,residential,820000,4.596799512,2053,Sand,68.46434896,5220.0
+Ward P/N,Pushpa Park,19.1853,72.8623,Poinsur River,40.0,"commercial, retail, mixed_use",900000,17.72,5,Sandy,90.0,23.84
+Ward P/N,Western Express Highway slope,19.1906,72.8636,Goregaon Nalla,23.0,"transport, industrial, mixed_use",820000,42.64,12,Sandy,90.0,245.08
+Ward P/S,MG Road,19.1598,72.8445,Goregaon Nalla,13.0,"residential, slum, mixed_use",820000,39.72,11,Urban,90.0,493.17
+Ward P/S,Siddharth Hospital area,19.1639,72.8433,Goregaon Nalla,16.0,"slum, residential, mixed_use",820000,41.76,7,Urban,90.0,188.27
+P/S,Goregaon,18.99427905,72.83460809,Oshiwara River,5.14667057,park,820000,4.004638396,2473,Clay,77.42709548,5292.0
+Ward P/S,Motilal Nagar,19.1613,72.8407,Goregaon Nalla,11.0,"transport, mixed_use",670000,30.68,10,Sandy,90.0,427.93
+Ward P/S,Goregaon Station Subway,19.1555,72.8441,Dahisar River,9.0,"residential, slum, mixed_use",670000,27.1,8,Urban,90.0,1520.09
+Ward R/N,Dahisar Subway,19.2525,72.8601,Dahisar River,18.0,"commercial, residential, mixed_use",670000,18.98,10,Urban,90.0,2224.03
+Ward R/N,Ovaripada slum slope,19.2536,72.8682,Poinsur River,22.0,"residential, institutional, mixed_use",670000,24.12,10,Clayey,90.0,14.6
+R/N,Dahisar,18.85334504,72.97523957,Dahisar River,11.18621685,park,670000,2.394216115,4834,Urban,72.66643178,3944.0
+Ward R/S,Shimpoli Road,19.2064,72.8376,Poinsur River,14.0,"industrial, residential, mixed_use",610000,23.07,22,Urban,90.0,247.69
+Ward R/S,Poinsur Depot,19.2083,72.8361,Poinsur River,15.0,"residential, mixed_use",610000,32.09,6,Urban,90.0,630.74
+R/S,Kandivali,19.03759446,72.74871077,Poisar River,14.73940767,park,610000,3.157764291,4374,Sand,65.87370617,4124.0
+Ward R/S,Mahavir Nagar junction,19.206,72.83,Poinsur River,14.0,"transport, commercial, mixed_use",610000,4.37,7,Urban,90.0,1223.88
+Ward R/C,IC Colony Subway,19.2365,72.8322,Poinsur River,16.0,"hospital/institutional, mixed_use",940000,Error: Found no graph nodes within the requested polygon.,10,Urban,90.0,1767.36
+Ward R/C,Mandapeshwar Creek edge,19.2408,72.8173,Kurla Nalla,2.0,"residential, slum, mixed_use",940000,28.38,67,Clayey,90.0,87.58
+R/C,Borivali,18.87866314,72.73566232,Dahisar/Poisar Rivers,14.47090667,residential,940000,3.14155313,1850,Sand,75.16991983,4535.0
+Ward L,Kurla Station (West & East),19.0727,72.8826,Kurla Nalla,6.0,"residential, slum, mixed_use",940000,33.97,15,Sandy,90.0,456.74
+Ward L,Bail Bazaar,19.0722,72.8771,Kurla Nalla,7.0,"recreational_ground, residential",940000,21.75,16,Sandy,70.0,708.7
+Ward L,LBS Road near Phoenix Marketcity,19.0888,72.8861,Kurla Nalla,9.0,"transport, residential, mixed_use",690000,11.52,40,Urban,90.0,10.34
+Ward L,CST Road Nullah,19.0813,72.8711,Chembur Nalla,5.0,"commercial, residential, mixed_use",690000,30.32,11,Urban,90.0,527.19
+Ward M/E,Shivaji Nagar,19.0572,72.8999,Chembur Nalla,10.0,"hospital/institutional, mixed_use",690000,29.15,7,Sandy,90.0,287.57
+Ward M/E,Baiganwadi,19.0566,72.9021,Chembur Nalla,10.0,"residential, mixed_use",690000,17.54,16,Sandy,90.0,351.07
+Ward M/E,Chembur East Bus Depot,19.0524,72.9005,Wadala Nalla,13.0,"transport, mixed_use",580000,Error: Graph contains no edges.,14,Urban,90.0,1166.33
+Ward M/W,Mahul Village,19.0054,72.8841,Chembur Nalla,4.0,"transport, mixed_use",580000,23.35,5,Clayey,90.0,152.33
+Ward M/W,RC Marg,19.0443,72.8943,Chembur Nalla,7.0,"residential, slum, mixed_use",710000,10.16,5,Sandy,90.0,416.73
+Ward M/W,Shell Colony,19.0431,72.8995,Wadala Nalla,8.0,"commercial, residential, mixed_use",710000,Error: Found no graph nodes within the requested polygon.,12,Sandy,90.0,1497.8
+M/W,Chembur,19.27786647,72.73192718,Mahul Creek / Thane Creek,5.590236849,commercial,580000,3.778120882,2983,Urban,75.00629293,3066.0
+Ward M/W,Trombay Road Sectors,19.0005,72.8873,Kurla Nalla,3.0,"transport, mixed_use",710000,27.64,6,Urban,90.0,399.93
+Ward N,Pant Nagar,19.0845,72.9107,Chembur Nalla,10.0,"recreation_ground, residential, mixed_use",520000,13.93,8,Sandy,90.0,89.81
+Ward N,Amar Mahal Junction,19.0594,72.9084,Powai Lake,9.0,"transport, residential, mixed_use",520000,23.63,14,Urban,90.0,48.44
+Ward N,RB Kadam Marg,19.0898,72.9156,Powai Lake,11.0,"recreation_ground, residential, mixed_use",780000,8.73,10,Sandy,90.0,260.13
+Ward S,Bhandup Tank Road,19.1436,72.9357,Powai Lake,7.0,"transport, commercial, mixed_use",780000,8.01,16,Urban,90.0,272.94
+Ward S,LBS Marg near Bhandup Station,19.1413,72.9341,Powai Lake,7.0,"transport, residential, mixed_use",780000,21.99,8,Sandy,90.0,154.37
+S,Kanjurmarg,18.98606011,72.8565653,Ulhas River,11.92050553,commercial,780000,3.247455704,3575,Sand,61.88002899,5629.0
+Ward S,Ganesh Nagar Slum Slope,19.1145,72.9306,Tulsi Lake,6.0,"slum, residential, mixed_use",780000,21.51,3,Clayey,90.0,199.16
+S,Bhandup,18.96848239,72.78874401,Ulhas River,13.17876638,park,780000,3.989189147,4346,Clay,56.82544889,2375.0
+Ward T,Mehul Circle,19.1741,72.9592,Tulsi Lake,5.0,"commercial, residential, mixed_use",640000,18.36,15,Urban,90.0,569.83
+T,Mulund,19.13907889,72.94062611,Thane Creek,7.288090036,residential,640000,4.114527708,4629,Urban,66.27593265,4313.0
+Ward T,Sarojini Naidu Road,19.172,72.9554,Tulsi Lake,6.0,"residential, commercial, mixed_use",640000,15.77,7,Urban,90.0,196.31
+Ward T,Lok Rachana Society,19.1748,72.9426,Tulsi Lake,8.0,"residential, institutional",640000,27.19,13,Sandy,70.0,146.32
+Ward T,Panch Rasta,19.1735,72.9478,Tulsi Lake,7.0,"commercial, residential, mixed_use",640000,24.62,23,Sandy,90.0,112.03
+Ward T,Mulund Railway Subway,19.1728,72.9473,Tulsi Lake,7.0,"transport, mixed_use",640000,24.62,10,Urban,90.0,112.03
