@@ -1,0 +1,11 @@
+{
+  "name": "flood-prediction-app",
+  "version": "1.0.0",
+  "description": "Mumbai Flood Prediction App",
+  "scripts": {
+    "build": "pip install -r requirements.txt"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
