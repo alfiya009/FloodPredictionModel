@@ -14,12 +14,12 @@ API_KEY = os.environ.get('OPENWEATHER_API_KEY', 'f215342ef6fb31829da6b26256b5d76
 WEATHER_URL = "https://api.openweathermap.org/data/2.5/weather"
 
 # ML artifacts
-MODEL = joblib.load("ensemble_model.joblib")
-SCALER = joblib.load("scaler.joblib")
-TARGET_ENCODER = joblib.load("target_encoder.joblib")
+MODEL = joblib.load("models/ensemble_model.joblib")
+SCALER = joblib.load("models/scaler.joblib")
+TARGET_ENCODER = joblib.load("models/target_encoder.joblib")
 
-TRAIN_CSV = "final_flood_classification data.csv"
-FORECAST_CSV = "mumbai_regions_7day_forecast.csv"
+TRAIN_CSV = "data/final_flood_classification data.csv"
+FORECAST_CSV = "data/mumbai_regions_7day_forecast.csv"
 
 df_train = pd.read_csv(TRAIN_CSV)
 if " Population" in df_train.columns:
