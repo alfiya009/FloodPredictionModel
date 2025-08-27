@@ -1,0 +1,22 @@
+# Manual Task Scheduler Setup Instructions
+
+Follow these steps to manually set up a scheduled task to update your forecast data:
+
+1. Press Win+R, type `taskschd.msc` and press Enter to open Task Scheduler
+2. In the right panel, click "Create Basic Task..."
+3. Enter a name (e.g., "Flood Model Forecast Update") and description, then click Next
+4. Select "Daily" for when you want the task to start, then click Next
+5. Set the start time to 6:00 AM and recurrence to 1 day, then click Next
+6. Select "Start a program" and click Next
+7. Browse to select the batch file: `C:\Users\alfiy\Desktop\model\model\update_forecast.bat`
+8. Click Next, review your settings, and click Finish
+
+Additional Configuration (Optional but Recommended):
+1. Find your newly created task in the Task Scheduler Library
+2. Right-click on it and select "Properties"
+3. Go to the "General" tab and check "Run with highest privileges"
+4. Go to the "Conditions" tab and uncheck "Start the task only if the computer is on AC power"
+5. Go to the "Settings" tab and check "Run task as soon as possible after a scheduled start is missed"
+6. Click "OK" to save your changes
+
+Your forecast data will now update automatically every day at 6:00 AM.

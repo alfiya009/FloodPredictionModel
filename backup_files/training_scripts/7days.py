@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 # CONFIG
 # -------------------------------------------------
 INPUT_CSV = "mumbai_static_areas_unique.csv"
-OUTPUT_CSV = "data/mumbai_regions_7day_forecast.csv"
+OUTPUT_CSV = "mumbai_regions_7day_forecast.csv"
 
 OPEN_METEO_URL = "https://api.open-meteo.com/v1/forecast"
 

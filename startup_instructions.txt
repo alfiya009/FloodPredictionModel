@@ -1,0 +1,22 @@
+# Instructions to add the forecast update to Windows startup
+
+To run the forecast update when your computer starts:
+
+Method 1: Using Startup Folder
+1. Press Win+R, type `shell:startup` and press Enter
+2. This opens your personal Startup folder
+3. Copy the file `startup_forecast_update.bat` to this folder
+   (or create a shortcut to it and place the shortcut in this folder)
+4. The script will run each time you log into Windows
+
+Method 2: Using Task Scheduler (More Reliable)
+1. Open Task Scheduler (taskschd.msc)
+2. Create a new task (not a basic task)
+3. Name it "Flood Model Forecast Update at Startup"
+4. Go to Triggers tab and click New
+5. Select "At startup" from the Begin the task dropdown
+6. Go to Actions tab and click New
+7. Select "Start a program" and browse to:
+   `C:\Users\alfiy\Desktop\model\model\update_forecast.bat`
+8. Go to Conditions tab and uncheck "Start the task only if the computer is on AC power"
+9. Click OK to save the task
